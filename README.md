@@ -1,6 +1,6 @@
 # Komprese obrazu – SVD vs Wavelety
 
-## 📌 Popis projektu
+##  Popis projektu
 Projekt porovnává dvě metody komprese obrazu:
 
 - **SVD (Singular Value Decomposition)**
@@ -11,13 +11,12 @@ Vyhodnocuje se:
 - kompresní poměr,
 - časová náročnost komprese a dekomprese.
 
----
 
-## ▶️ Spuštění projektu
+## Spuštění projektu
 
 Projekt je odevzdán jako **Jupyter Notebook**.
 
-### 1️⃣ Požadavky
+### 1️Požadavky
 
 Je potřeba mít nainstalovaný **Python 3** a následující knihovny:
 
@@ -25,9 +24,7 @@ Je potřeba mít nainstalovaný **Python 3** a následující knihovny:
 pip install numpy matplotlib opencv-python pywavelets
 ```
 
----
-
-### 2️⃣ Spuštění notebooku
+### 2️Spuštění notebooku
 
 V terminálu:
 
@@ -47,9 +44,8 @@ A spustit celý notebook najednou:
 
 Notebook je připraven tak, aby běžel od začátku do konce bez úprav.
 
----
 
-## 🖼 Vstupní obrázky
+## Vstupní obrázky
 
 Notebook pracuje se třemi testovacími obrazy:
 
@@ -59,9 +55,6 @@ Notebook pracuje se třemi testovacími obrazy:
 
 Cesty k obrázům jsou nastaveny přímo v notebooku.
 
----
-
-## 📊 Co notebook dělá
 
 Notebook automaticky:
 
@@ -72,6 +65,5 @@ Notebook automaticky:
 - změří **čas komprese a rekonstrukce**
 - vytvoří grafy a vizuální porovnání výsledků
 
----
 
 Notebook je plně spustitelný a obsahuje všechny výpočty i vizualizace.
