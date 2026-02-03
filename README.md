@@ -16,7 +16,7 @@ Vyhodnocuje se:
 
 Projekt je odevzdán jako **Jupyter Notebook**.
 
-### 1️Požadavky
+### Požadavky
 
 Je potřeba mít nainstalovaný **Python 3** a následující knihovny:
 
@@ -24,7 +24,7 @@ Je potřeba mít nainstalovaný **Python 3** a následující knihovny:
 pip install numpy matplotlib opencv-python pywavelets
 ```
 
-### 2️Spuštění notebooku
+### Spuštění notebooku
 
 V terminálu:
 
