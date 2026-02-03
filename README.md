@@ -38,9 +38,7 @@ Poté otevřít:
 experiments.ipynb
 ```
 
-A spustit celý notebook najednou:
-
-**Kernel → Restart & Run All**
+A spustit celý notebook najednou.
 
 Notebook je připraven tak, aby běžel od začátku do konce bez úprav.
 
@@ -58,11 +56,11 @@ Cesty k obrázům jsou nastaveny přímo v notebooku.
 
 Notebook automaticky:
 
-- provede SVD kompresi pro různé hodnoty parametru **k**
+- provede SVD kompresi pro různé hodnoty parametru k
 - provede waveletovou kompresi pro různé kompresní poměry
-- spočítá **PSNR**
-- spočítá **kompresní poměr**
-- změří **čas komprese a rekonstrukce**
+- spočítá PSNR
+- spočítá kompresní poměr
+- změří čas komprese a rekonstrukce
 - vytvoří grafy a vizuální porovnání výsledků
 
 
